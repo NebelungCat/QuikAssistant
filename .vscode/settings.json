@@ -1,0 +1,20 @@
+{
+  "Lua.diagnostics.globals": [
+    "log",
+    "message",
+    "getScriptPath",
+    "getSecurityInfo",
+    "getInfoParam",
+    "getParamEx",
+    "isConnected",
+    "getNumberOf",
+    "getItem",
+    "SearchItems",
+    "bit",
+    "sendTransaction",
+    "tableSetting",
+    "tableOrdersControl"
+  ],
+  "lua.targetVersion": "5.3",
+  "files.encoding": "windows1251"
+}
